@@ -95,6 +95,7 @@ public class ArithmaticCalculator {
 			
 		}//end switch
 		}//end while loop
+		scan.close();
 	}
 
 }
